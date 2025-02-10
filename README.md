@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Praduman Sharma | Software Engineer - Full Stack
 
 
